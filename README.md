@@ -1,6 +1,6 @@
 # fastapi-kimo
 
-Completed Assessment for the Kimo using FastAPI.
+Completed Assessment for Kimo using FastAPI.
 
 ## Running Tests
 ```py
